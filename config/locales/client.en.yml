@@ -1,0 +1,9 @@
+en:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          logger_plugin: "Logger Plugin"
+  js:
+    logger_plugin:
+      placeholder: placeholder
